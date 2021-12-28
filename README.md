@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 👨🏻‍💻 I’m an software developer in Wuhan
+- 👨🏻‍💻 I’m an full-stack developer in Wuhan
 - 📚 Android & iOS & Java
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=smart1024&show_icons=true)](https://github.com/smart1024)
